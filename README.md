@@ -6,9 +6,10 @@ This is a backend e-commerce app that uses RESTful API for managing products, ca
 - Express.js
 - Sequelize
 - PostgresSQL (Database)
+
 ## Video Demo
 
-![Video Demo](https://drive.google.com/file/d/1yQPBadiwNesKuBnt3-EAIGQIAtXk0puk/view)
+[Click here to watch the video demo](https://drive.google.com/file/d/1yQPBadiwNesKuBnt3-EAIGQIAtXk0puk/view)
 
 ## License
 This project is licensed under the MIT License. 
